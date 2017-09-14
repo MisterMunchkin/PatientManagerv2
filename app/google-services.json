@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "411126486534",
+    "firebase_url": "https://patientmanagerv2.firebaseio.com",
+    "project_id": "patientmanagerv2",
+    "storage_bucket": "patientmanagerv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411126486534:android:ee7913933a737cc0",
+        "android_client_info": {
+          "package_name": "com.unwind.munchkin.patientmanagerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411126486534-fa3iknn2quofk71mnd847huju3en4suv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unwind.munchkin.patientmanagerv2",
+            "certificate_hash": "ce0b3efb4a874910324e9935132a8a3adb2bd961"
+          }
+        },
+        {
+          "client_id": "411126486534-oht4fb6vre7lcbfti0c16g5e6a9orstk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIa-lYwhlxnSDEmxNb7S8vuchNrL7wYpE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411126486534-oht4fb6vre7lcbfti0c16g5e6a9orstk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
